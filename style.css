@@ -1,0 +1,93 @@
+.container {
+  margin-bottom: 100px;
+}
+
+.orange-org {
+  background-image: url(hot-gadgets/bg-1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  border-radius: 10px;
+}
+.buy-now-button {
+  background-color: black;
+  border-radius: 8px;
+  color: white;
+  padding: 9px 25px;
+  cursor: pointer;
+}
+.back {
+  color: #f3a514;
+}
+.carousel-item {
+  padding: 20px 40px;
+}
+.cat1,
+.cat2,
+.cat3 {
+  padding: 10px 30px;
+}
+.cat1 {
+  color: #feeae9;
+  background-image: linear-gradient(red, yellow);
+}
+.cat2 {
+  color: #feeae9;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+.cat3 {
+  color: white;
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+}
+.card-title {
+  text-align: center;
+}
+.card-text {
+  text-align: center;
+}
+.new {
+  color: hsl(39, 53%, 50%);
+}
+.ddd {
+  padding: 200px;
+}
+.boder {
+  box-shadow: 10px 10px 40px grey;
+  height: 140px;
+  width: 130px;
+  padding: 10px;
+}
+.ct1,
+.ct2,
+.ct3 {
+  box-shadow: 10px 10px 40px grey;
+  height: 140px;
+  width: 140px;
+  padding: 10px;
+}
+.cat1,
+.cat2,
+.cat3 {
+  padding: 10px 30px;
+}
+.half-width img {
+  width: 100%;
+}
+.test {
+  text-align: center;
+  color: red;
+}
+.testt {
+  text-align: center;
+  color: hsl(39, 100%, 59%);
+}
+.vary {
+  text-align: center;
+  color: rgb(23, 184, 23);
+}
